@@ -1,3 +1,4 @@
+![Imgur](http://i.imgur.com/ZMJYOvz.png)
 # React with Jest
 > This will help you to understand how jest framework work with reactjs for unit testing
 
