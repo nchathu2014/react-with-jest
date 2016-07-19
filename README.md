@@ -1,4 +1,4 @@
-![Imgur](http://i.imgur.com/ZMJYOvz.png)
+![Imgur](http://i.imgur.com/ZMJYOvz.png) [![Build Status](https://travis-ci.org/nchathu2014/react-with-jest.svg?branch=master)](https://travis-ci.org/nchathu2014/react-with-jest)
 # React with Jest
 > This will help you to understand how jest framework work with reactjs for unit testing
 
