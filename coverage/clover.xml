@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1468949438720" clover="3.2.0">
-	<project timestamp="1468949438720"  name="All Files" >
-		<metrics statements="21"  coveredstatements="19"  conditionals="31"  coveredconditionals="14"  methods="16"  coveredmethods="11"  elements="68"  coveredelements="44"  complexity="0"  packages="4"  files="4"  classes="4"  loc="53"  ncloc="53" />
+<coverage generated="1468951590934" clover="3.2.0">
+	<project timestamp="1468951590934"  name="All Files" >
+		<metrics statements="43"  coveredstatements="41"  conditionals="68"  coveredconditionals="38"  methods="31"  coveredmethods="26"  elements="142"  coveredelements="105"  complexity="0"  packages="6"  files="6"  classes="6"  loc="110"  ncloc="110" />
 		<package name="__tests__.src.components" >
 			<metrics statements="6"  coveredstatements="6"  conditionals="0"  coveredconditionals="0"  methods="2"  coveredmethods="2" />
 			<file name="App-test.js"  path="C:\Nuwan\myWorksSpaces\Techs\Testing\Jest\react-with-jest\__tests__\src\components\App-test.js" >
@@ -12,6 +12,24 @@
 				<line num="10"  count="1"  type="stmt" />
 				<line num="11"  count="1"  type="stmt" />
 				<line num="13"  count="1"  type="stmt" />
+			</file>
+		</package>
+		<package name="__tests__.src.components.CheckboxWithLabel" >
+			<metrics statements="12"  coveredstatements="12"  conditionals="4"  coveredconditionals="4"  methods="3"  coveredmethods="3" />
+			<file name="checkbox-with-label-test.js"  path="C:\Nuwan\myWorksSpaces\Techs\Testing\Jest\react-with-jest\__tests__\src\components\CheckboxWithLabel\checkbox-with-label-test.js" >
+				<metrics statements="12"  coveredstatements="12"  conditionals="4"  coveredconditionals="4"  methods="3"  coveredmethods="3" />
+				<line num="1"  count="1"  type="stmt" />
+				<line num="3"  count="1"  type="stmt" />
+				<line num="4"  count="1"  type="stmt" />
+				<line num="5"  count="1"  type="stmt" />
+				<line num="6"  count="4"  type="cond"  truecount="4"  falsecount="0" />
+				<line num="8"  count="1"  type="stmt" />
+				<line num="10"  count="1"  type="stmt" />
+				<line num="12"  count="1"  type="stmt" />
+				<line num="16"  count="1"  type="stmt" />
+				<line num="19"  count="1"  type="stmt" />
+				<line num="22"  count="1"  type="stmt" />
+				<line num="25"  count="1"  type="stmt" />
 			</file>
 		</package>
 		<package name="__tests__.src.js" >
@@ -36,6 +54,22 @@
 				<line num="8"  count="1"  type="stmt" />
 				<line num="12"  count="0"  type="stmt" />
 				<line num="21"  count="1"  type="stmt" />
+			</file>
+		</package>
+		<package name="src.components.CheckboxWithLabel" >
+			<metrics statements="10"  coveredstatements="10"  conditionals="33"  coveredconditionals="20"  methods="12"  coveredmethods="12" />
+			<file name="checkbox-with-label.js"  path="C:\Nuwan\myWorksSpaces\Techs\Testing\Jest\react-with-jest\src\components\CheckboxWithLabel\checkbox-with-label.js" >
+				<metrics statements="10"  coveredstatements="10"  conditionals="33"  coveredconditionals="20"  methods="12"  coveredmethods="12" />
+				<line num="1"  count="3"  type="cond"  truecount="18"  falsecount="13" />
+				<line num="3"  count="1"  type="stmt" />
+				<line num="5"  count="1"  type="stmt" />
+				<line num="7"  count="1"  type="stmt" />
+				<line num="10"  count="1"  type="stmt" />
+				<line num="15"  count="1"  type="stmt" />
+				<line num="17"  count="1"  type="stmt" />
+				<line num="21"  count="1"  type="stmt" />
+				<line num="25"  count="2"  type="stmt" />
+				<line num="32"  count="1"  type="cond"  truecount="2"  falsecount="0" />
 			</file>
 		</package>
 		<package name="src.js" >
