@@ -23,21 +23,10 @@ build production version
 ```sh
 $ npm run production
 ```
-#### Main Topics
 
-* 
-
-### Todos
-
- - Write Tests
- - Rethink Github Save
- - Add Code Comments
- - Add Night Mode
- 
 License
 ----
 > MIT
-
 
 **Free Software, Hell Yeah!**
 
